@@ -1,0 +1,104 @@
+body{
+    
+    background: rgb(64,64,228);
+    background: linear-gradient(90deg, rgba(64,64,228,1) 14%, rgba(248,0,255,1) 98%);
+       
+    
+       
+        
+    }
+    .heading{
+        margin: 5px;
+        color: #ffffff;
+        font-size: 27px;
+        text-align: center;
+    }
+    .Login{
+        margin-left: 550px;
+        text-align: center;
+        height: 450px;
+        width: 400px;
+        background: rgba( 247, 246, 246, 0.1 );
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 0px );
+        -webkit-backdrop-filter: blur( 0px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+        margin-top: 200px;
+        border-radius: 8px;
+        
+    }
+    .form{
+        margin-top: 20px;
+    }
+    
+    .form-content{
+        display: block;
+        height: 60px;
+    }
+    #fname{
+        border: 1px solid grey;
+       
+        padding: 5px;
+        border-radius: 8px;
+        height: 25px;
+        width: 230px;
+    }
+    .main-signup{
+        margin-top: 20px;
+        display: flex;
+    }
+    .forget-text{
+        
+        margin-left: 60px;
+    }
+    .login-btn{
+        border-radius: 115px;
+        width: 180px;
+        background-image: linear-gradient(to right, #2e06eb, #006eff, #0097ff, #00b5d0, #25cdae);
+        height: 30px;
+    }
+    .Signup{
+    
+        margin-left: 10px;
+    }
+    #user-img{
+        height: 20px;
+        width: 20px;
+    }
+    #pass-img{
+        height: 20px;
+        width: 20px;
+    }
+    #mail-img{
+        height: 20px;
+        width: 20px;
+    
+    }
+    .login-btn{
+        margin-top: 10px;
+        
+    }
+    .login-link{
+        color: white;
+        text-decoration: none;
+    }
+    .not-registerd{
+        margin-left: 60px;
+        text-decoration: none;
+    }
+    .signup-link{
+        text-decoration: none;
+    }
+    .hero{
+        margin-bottom: 20px;
+        display: flex;
+    }
+    .firstname{
+        
+        border: 1px solid grey;
+       margin-bottom: 20px;
+    }
+    a{
+        color: white;
+    }
